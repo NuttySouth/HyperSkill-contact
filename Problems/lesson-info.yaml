@@ -1,0 +1,58 @@
+content:
+- Illegal identifiers
+- Fix compile-time errors
+- What's wrong?
+- Fix the program
+- Army
+- Preparing full name
+- Account
+- Book
+- Getting the fullname
+- Phone
+- Time
+- Employee
+- Find a word with a given length
+- Start or end of a word
+- Number parsing
+- Classes for Hospital
+- Fix the non-compiled hierarchy
+- Employees
+- Saying animals
+- Shapes area
+- Publications
+- Find mistake
+- Publication and its subclasses
+- Mutable geometric shapes
+- Compact strings with AsciiCharSequence
+- Book (1)
+- Car
+- Avoid NPE
+- Safe converting
+- Robot Builder
+- Pastry packing optimization
+- Find the nearest number
+- Shape hierarchy
+- Print dates of a year with an offset
+- Seconds since start of a day
+- Return time without seconds
+- Seconds between two time points
+- Add days and subtract hours
+- Add 11 hours and print the date
+- Whole hours between two date-time pairs
+- Counting 2D shapes
+- Sort out the classes
+- Motor static factory
+- Clock factory
+- Static factory methods for Time
+- Stock Broker
+- Forex Broker
+- Undo command
+- Remote Controller
+- Clocks
+- Robot factory
+- Burger store
+- Template Method
+- Template Method (1)
+- Laptop factory
+- Burgers
+- Phone factory

@@ -1,0 +1,14 @@
+type: code
+custom_name: Book
+files:
+- name: src/Main.java
+  visible: true
+  text: // write your class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2985
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2985">JetBrains
+    Academy</a></html>
+  time: Thu, 03 Sep 2020 04:02:30 UTC
+record: -1
